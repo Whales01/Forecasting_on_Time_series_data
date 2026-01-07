@@ -2,7 +2,7 @@
 # Overview
 
 This project implements a high-performance time series forecasting pipeline designed to model the price dynamics of Goldman Sachs (GS). The primary objective is to move beyond "black-box" predictions by identifying models that are both statistically predictive and economically meaningful.
-A core focus of this research is assessing the sensitivity of equity prices to macroeconomic shifts—specifically the impact of benchmark interest rates. Research indicates that a 100-basis-point change in real Treasury yields is typically associated with a 7% change in forward P/E multiples, making interest rate exogenous variables critical for robust financial modeling.
+A core focus of this research is assessing the sensitivity of equity prices to macroeconomic shifts, specifically the impact of benchmark interest rates. Research indicates that a 100-basis-point change in real Treasury yields is typically associated with a 7% change in forward P/E multiples, making interest rate exogenous variables critical for robust financial modeling.
 
 The work was developed as part of a time series assessment and emphasizes model diagnostics, interpretability, and forecast performance.
 
