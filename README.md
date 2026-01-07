@@ -1,4 +1,4 @@
-# Time Series Forecasting - Financial Market Analysis
+# Goldman Sachs Time Series Forecasting - Financial Market Analysis
 # Overview
 
 This project implements a high-performance time series forecasting pipeline designed to model the price dynamics of Goldman Sachs (GS). The primary objective is to move beyond "black-box" predictions by identifying models that are both statistically predictive and economically meaningful.
